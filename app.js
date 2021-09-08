@@ -7,5 +7,5 @@ numero2 = Math.random()*1000;
 suma = numero1 + numero2;
 
 
-console.log(suma);
+console.log("la suma es: " +suma);
 
