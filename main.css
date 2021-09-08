@@ -1,0 +1,10 @@
+body {
+    font-family: fantasy;
+    position: relative;
+}
+
+.imagen{
+    border: 2px;
+    border-color: lightskyblue;
+    border-style: groove;
+}
